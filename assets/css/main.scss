@@ -115,7 +115,7 @@ body {
     font-style: normal;
     font-family: 'NanumBarunpen';
     //-apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    margin: 1em;
+    margin: 0;
     padding: 0;
     background-color: var(--bg_color);
     transition: background-color 0.5s ease;
@@ -521,7 +521,7 @@ img {
 .post_title {
     color: var(--post_title);
     font-size: 1.8rem;
-    line-height: 2.2rem;
+    line-height: 3.2rem;
     font-weight: 700;
 
     @include mobile-only {
