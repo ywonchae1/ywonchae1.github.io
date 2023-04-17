@@ -521,7 +521,7 @@ img {
 .post_title {
     color: var(--post_title);
     font-size: 1.8rem;
-    line-height: 3.2rem;
+    line-height: 2.2rem;
     font-weight: 700;
 
     @include mobile-only {
@@ -562,7 +562,7 @@ img {
 
 .post_content {
     font-size: 0.95rem;
-    line-height: 1.5rem;
+    line-height: 3.5rem;
     color: var(--post_text);
 
     h1,
