@@ -9,7 +9,7 @@ categories: [dev]
 
 무엇보다 윈도우 11은 시험기간에도 노트북을 초기화하게 만들었다..
 
-<img src="../attatchment/230418/windows11error.jpeg>
+<img src="../attatchment/230418/windows11error.jpeg">
 
 #### 진심 이게 뭐람.........
 
