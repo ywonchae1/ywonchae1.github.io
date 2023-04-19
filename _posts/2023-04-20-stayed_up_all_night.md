@@ -6,7 +6,7 @@ categories: [writing]
 
 ## 학부연구생
 
-<img src="../attachment/230420/IMG_1357">
+<img src="../attachment/230420/IMG_1357.jpeg">
 
 학부연구생을 시작하게 되었다.
 1일차인데 설레고 기분 좋다.
@@ -32,4 +32,4 @@ categories: [writing]
 
 연구실 열쇠를 가졌다. 기분이 좋다.
 언니가 너무 귀여운 부리부리대마왕 키링도 주었다 !! :)) 고마워 <3
-<img src="../attachment/230420/IMG_1356">
+<img src="../attachment/230420/IMG_1356.jpeg">
