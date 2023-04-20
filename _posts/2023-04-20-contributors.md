@@ -6,7 +6,13 @@ categories: [dev]
 
 ## Contributors에 다른 사용자 삭제하기
 
+<p align="central">
+	<img src="../attachment/230420/contributor.png">
+</p>
+
 공용 컴퓨터를 쓰다가 실수로 다른 사람의 계정으로 내 블로그 리포지토리에 push를 해버렸다.
+
+공동 작업자도 아닌 정말 다른 사람..!
 
 ```
 git config --global user.name [사용자이름]
@@ -25,8 +31,4 @@ git config --global user.email [사용자이메일]
 
 <p align="central">
 	<img src="../attachment/230420/rename.png">
-</p>
-
-<p align="central">
-	<img src="../attachment/230420/contributor.png">
 </p>
