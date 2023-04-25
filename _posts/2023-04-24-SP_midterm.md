@@ -47,7 +47,7 @@ gcc test.c
 cat output.txt
 
 3. 
-test.c 파일은 다음고 같다.
+test.c 파일은 다음과 같다.
 ```cpp
 int main() {
     struct stat *finfo;
