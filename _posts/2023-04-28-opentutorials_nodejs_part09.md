@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OpenTutorials] Node.js 공부 Part9 - 🐘 글을 수정, 수정사항 전송, 저장하기 / 여기 정말 재밌다!"
+title: "[OpenTutorials] Node.js 공부 Part09 - 🐘 글을 수정, 수정사항 전송, 저장하기 / 여기 정말 재밌다!"
 categories: [serverSystem]
 ---
 

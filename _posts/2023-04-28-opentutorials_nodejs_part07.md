@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OpenTutorials] Node.js 공부 Part7 - 🐘 HTML의 form 태그를 사용하여 post 방식으로 데이터를 서버에 전송해보자! / 여기 정말 재밌다!"
+title: "[OpenTutorials] Node.js 공부 Part07 - 🐘 HTML의 form 태그를 사용하여 post 방식으로 데이터를 서버에 전송해보자! / 여기 정말 재밌다!"
 categories: [serverSystem]
 ---
 

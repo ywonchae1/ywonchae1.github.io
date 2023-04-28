@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OpenTutorials] Node.js 공부 Part4 - 저장된 파일에 따라 동적으로 변경되는 글 목록 출력하기, 중복되는 부분을 함수로 정리하기 / 반복문과 함수의 활용"
+title: "[OpenTutorials] Node.js 공부 Part04 - 저장된 파일에 따라 동적으로 변경되는 글 목록 출력하기, 중복되는 부분을 함수로 정리하기 / 반복문과 함수의 활용"
 categories: [serverSystem]
 ---
 
