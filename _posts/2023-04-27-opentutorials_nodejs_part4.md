@@ -45,7 +45,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname;
 
-    if(pathname === '/'){
+    if(mypathname === '/'){
         if(queryData.id === undefined){
             var title = 'Welcome';
             var description = 'Hello, Node.js';
@@ -67,7 +67,7 @@ var app = myhttp.createServer(function(request,response){
 지난 글의 마지막 코드이다.
 
 ```js
-if(pathname === '/'){
+if(mypathname === '/'){
         if(queryData.id === undefined){
             //요기
             var title = 'Welcome';

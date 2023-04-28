@@ -90,7 +90,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname; //요기
 
-    if(pathname === '/'){   //요기
+    if(mypathname === '/'){   //요기
         myfs.readFile(`data/${queryData.id}`, 'utf8', function(err, description){
             ...
         });
@@ -111,7 +111,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname; //요기
 
-    if(pathname === '/'){   //요기
+    if(mypathname === '/'){   //요기
         myfs.readFile(`data/${queryData.id}`, 'utf8', function(err, description){
             ...
         });
@@ -161,7 +161,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname;
 
-    if(pathname === '/'){
+    if(mypathname === '/'){
         if(queryData.id === undefined){     //요기
             //이때는 읽을 파일이 없기 때문에 readFile 함수는 뒤로 미뤄두자.
         }
@@ -190,7 +190,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname;
 
-    if(pathname === '/'){
+    if(mypathname === '/'){
         if(queryData.id === undefined){     //요기
             var title = 'Welcome';      //요기
             var description = 'Hello, Node.js'; //요기
@@ -221,7 +221,7 @@ var app = myhttp.createServer(function(request,response){
     var queryData = myurl.parse(_url, true).query;
     var mypathname = myurl.parse(_url, true).pathname;
 
-    if(pathname === '/'){
+    if(mypathname === '/'){
         if(queryData.id === undefined){     //요기
             var title = 'Welcome';      //요기
             var description = 'Hello, Node.js'; //요기
