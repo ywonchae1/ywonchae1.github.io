@@ -54,7 +54,9 @@ var queryData = url.parse(_url, true).query;
 
 🥝 queryData에는 URL의 내용 중 querystring 부분만 parse(분석)하여 들어가 있다.
 
-localhost:3000/?id=HTML&page=12라면 queryData라는 변수는 id가 HTML, page는 12라는 사실을 담고 있는 것이다.
+    localhost:3000/?id=HTML&page=12
+
+위와 같다면 queryData라는 변수는 id가 HTML, page는 12라는 사실을 담고 있는 것이다.
 
 ## 감상과 질문
 
