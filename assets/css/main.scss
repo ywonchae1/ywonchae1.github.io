@@ -113,7 +113,8 @@ body {
     height: 100%;
     font-weight: normal;
     font-style: normal;
-    font-family: 'NanumBarunpen';
+    font-family: 'GyeonggiBatang';
+	 //'NanumBarunpen';
     //-apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin: 0;
     padding: 0;
@@ -800,6 +801,13 @@ a {
         text-decoration: none;
         color: var(--footer_font_a);
     }
+}
+
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
