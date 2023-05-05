@@ -425,7 +425,7 @@ img {
 .nav_list {
     margin: 0;
     padding-right: 3rem; //here
-	 padding-left: 3rem; //here
+	 padding-left: 6rem; //here
     list-style: none;
 
     @include mobile-only {
@@ -510,7 +510,7 @@ img {
     @include breakpoint(medium) {
         //max-width: 33rem;
         margin-top: 5rem;
-		  margin-right: 5rem;
+		  margin-right: 10rem;
     }
 
     @include mobile-only {
