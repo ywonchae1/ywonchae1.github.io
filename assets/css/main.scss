@@ -435,6 +435,16 @@ img {
     }
 }
 
+.nav_list_mobi {
+	margin-left: 2rem;
+	margin-right: 2rem;
+	list-style: none;
+
+	@include mobile-only {
+		text-align: center;
+	}
+}
+
 .nav_item {
     display: inline-block;
     *display: inline;
