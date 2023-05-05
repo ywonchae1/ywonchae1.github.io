@@ -153,7 +153,7 @@ img {
     @include breakpoint(medium) {
         margin-left: auto;
         margin-right: auto;
-        max-width: 960px;
+        max-width: 1440px; //here
         padding-top: 2.5rem;
     }
 
@@ -509,6 +509,7 @@ img {
     @include breakpoint(medium) {
         max-width: 33rem;
         margin-top: 5rem;
+		  margin-right: 5rem;
     }
 
     @include mobile-only {
@@ -568,7 +569,7 @@ img {
     h1,
     h2 {
         margin-top: 2rem;
-	line-height: 2.5rem;
+		  line-height: 2.5rem;
     }
 
     h3 {
@@ -583,7 +584,7 @@ img {
     }
 
     p {
-        max-width: 49rem;
+        //max-width: 49rem;
     }
 
     a {
