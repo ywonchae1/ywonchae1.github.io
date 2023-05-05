@@ -435,11 +435,6 @@ img {
     }
 }
 
-.nav_list_mobi {
-	margin-left: 2rem;
-	margin-right: 2rem;
-}
-
 .nav_item {
     display: inline-block;
     *display: inline;
@@ -478,7 +473,8 @@ img {
 
     @include mobile-only {
         display: block;
-        margin: 2rem; //here
+        margin-right: 1rem; //here
+        margin-left: 1rem; //here
     }
 
     @include breakpoint(medium) {
