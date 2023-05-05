@@ -473,8 +473,8 @@ img {
 
     @include mobile-only {
         display: block;
-        margin-right: 1rem; //here
-        margin-left: 1rem; //here
+        margin-right: 0.3rem; //here
+        margin-left: 0.3rem; //here
     }
 
     @include breakpoint(medium) {
