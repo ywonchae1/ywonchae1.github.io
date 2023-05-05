@@ -420,6 +420,8 @@ img {
 
     @include mobile-only {
         display: none;
+		margin-left: 3rem;
+		margin-right: 3rem;
     }
 }
 
