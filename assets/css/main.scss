@@ -245,7 +245,7 @@ img {
     }
 
     @include breakpoint(medium) {
-        max-width: 30rem;
+        max-width: 45rem; //here
         margin-top: 5rem;
     }
 
@@ -424,7 +424,8 @@ img {
 
 .nav_list {
     margin: 0;
-    padding: 0;
+    padding-right: 3rem; //here
+	 padding-left: 3rem; //here
     list-style: none;
 
     @include mobile-only {
@@ -507,7 +508,7 @@ img {
     color: var(--post_text);
 
     @include breakpoint(medium) {
-        max-width: 33rem;
+        //max-width: 33rem;
         margin-top: 5rem;
 		  margin-right: 5rem;
     }
