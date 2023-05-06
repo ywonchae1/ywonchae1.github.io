@@ -52,7 +52,7 @@ VMware 쓸 때는 다시는 리눅스 안 쓴다 했는데..
 
 리눅스가 편한 거였다
 
-<img src="../attachment/230418/IMG_1349.jpeg" weidth='50%' height='50%'>
+<img src="../attachment/230418/IMG_1349.JPEG" weidth='50%' height='50%'>
 
 이제 노트북을 켜면 어떤 OS로 부팅을 할 지 선택할 수 있다.
 
@@ -68,4 +68,4 @@ VMware 쓸 때는 다시는 리눅스 안 쓴다 했는데..
 
 칫...
 
-<img src="../attachment/230418/IMG_1343.jpeg" weidth='80%' height='80%'s>
+<img src="../attachment/230418/IMG_1343.jpeg" weidth='80%' height='80%'>
