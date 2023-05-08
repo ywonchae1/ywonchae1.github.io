@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Node.js] request.body가 undefined, {}로 나올 때 해결"
+title: "[Node.js] request.body가 undefined, 빈 객체로 나올 때 해결"
 categories: [dev]
 ---
 
