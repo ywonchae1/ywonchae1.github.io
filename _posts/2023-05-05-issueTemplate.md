@@ -44,15 +44,23 @@ categories: [dev]
 
     <img src='../attachment/230505/Screenshot_gitmessage.png' weidth='80%' height='80%'>
 
-    이 파일이 있으면
+    만든 파일을 적용시켜준다.
 
     ```
-    git commit
+    git config --global commit.template .gitmessage.txt
     ```
 
-    이 명령을 치면 바로 저 파일이 nano 편집기로 뜬다. (우분투의 경우)
+    이제 `git commit` 명령을 치면 바로 저 파일이 nano 편집기로 뜬다. (우분투의 경우)
 
-    #을 붙이지 않고 저장하고 나가면 커밋이 완료되고 이후에 push를 하면 된다.
+    commit message에 #을 처음에 넣어야 하는 경우에는 git의 기본 주석을 변경해 주어야 한다.
+
+    git의 기본 주석은 #인데, 이를 ;으로 변경할 수 있다.
+
+    ```
+    git config --global core.commentChar ";"
+    ```
+
+    주석을 붙이지 않고 저장하고 나가면 커밋이 완료되고 이후에 push를 하면 된다.
 
     ```
     git push
