@@ -47,3 +47,31 @@ main이 아니라 feature/3 브랜치로 나만 쓰는 다른 브랜치를 사�
 공식적으로는 사용을 지양한다.
 
 여럿이서 함께 사용하는 브랜치라면 모두가 수작업으로 커밋을 수정해줘야 하기 때문이다.
+
+---
+
+5/26 추가
+
+`git push --force feature/25`를 하니 이런 오류가 발생하였다.
+
+<img src='../attachment/230526/Capture.PNG'>
+
+```
+fatal: 'feature/25' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+찾아보니 `git remote remove` 후 재연결하는 방법들이 많이 나와 있었는데 나는 되지 않았다.
+
+나는 이런 상황이었는데,
+
+<img src='../attachment/230526/Capture2.PNG'>
+
+```
+git push --force origin feature/25
+```
+
+라고 하니까 되었다.
