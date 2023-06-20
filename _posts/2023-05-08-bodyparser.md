@@ -73,8 +73,6 @@ Node.js, express를 사용해 웹페이지를 제작하고 있던 중 문제를 
 
     <https://stackoverflow.com/questions/9177049/express-js-req-body-undefined>
 
-    누군가의 시간이 절약되었길 바란다.
-
 5. 그리고 INSERT문에서 FK인 컬럼에 존재하지 않는 데이터를 집어 넣었더니 INSERT 자체가 거부되기도 하였다.
 
     user 테이블에서 userId를 review 테이블이 FK로 참조하고 있었는데, userId는 1, 2, 3만 만들어 놓은 상태였고 main.js에서 review 테이블의 userId에 777이라는 값을 INSERT하려고 했었다.
