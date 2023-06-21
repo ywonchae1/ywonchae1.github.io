@@ -646,8 +646,8 @@ a {
 }
 
 .post_content {
-    font-size: 0.95rem;
-    line-height: 1.5rem;
+    font-size: 1.3rem;
+    line-height: 2rem;
     color: var(--post_text);
 
     h1,
@@ -669,6 +669,7 @@ a {
 
     p {
         //max-width: 49rem;
+        word-break:break-all;
     }
 
     a {
