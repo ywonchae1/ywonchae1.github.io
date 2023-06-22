@@ -58,6 +58,23 @@ App.js 파일에서 버튼에 클릭 시 이동할 URL을 정의해 준다. 일�
 
 <img src="../attachment/230622/main-js-file.PNG">
 
+```
+(main.js에 추가)
+app.use(express.json());
+var cors = require('cors');
+app.use(cors());
+
+app.use(express.static(path.join(__dirname, 'react-project/build')));
+
+app.get('/', function (req, res) {
+  res.sendFile(path.join(__dirname, '/react-project/build/index.html'));
+});
+
+app.get('*', function (req, res) {
+  res.sendFile(path.join(__dirname, '/react-project/build/index.html'));
+});
+```
+
 이제 main.js파일은 React와 연동을 위해 이렇게 변경된다.
 
 React에서 라우팅을 하지 않는다면 마지막 줄들은 적지 않아도 된다.
@@ -93,3 +110,9 @@ ejs에서 지독한 <% %>를 사용하지 않아도 된다는 것이 짱 편하�
 마치 어플리케이션처럼 간단한 작업에 새로고침이 필요 없다는 게 장점.. 예를 들면 글 목록의 이동이라던지
 
 사실 React 문법 배우고 이제 Node.js랑 연결하려니까 갑자기 막막하고 두려워서 그냥 ejs 쓸가... 했는데 꾹 참고 해보니 조금만 익숙해지면 굉장히 편할 것 같다. 정말로!!
+
+## 🧦 참고
+
+<https://codingapple.com/unit/nodejs-react-integration/>
+
+<https://yoo11052.tistory.com/148>
