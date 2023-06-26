@@ -164,6 +164,23 @@ MIDIUM, HIGH도 가능
 
 설정하고, 다시 계정 생성 또는 비밀번호 변경 시도
 
+## 계정에 DB 권한 주기
+
+```
+mysql> GRANT ALL ON [database이름].[table이름] TO [user이름]@[server이름];
+```
+
+권한을 주지 않으면 웹 서버가 mysql 패키지로 접근이 불가능해서 이런 오류가 생긴다.
+
+```
+Error: Access denied for user 'root'@'localhost'
+code: 'ER_ACCESS_DENIED_NO_PASSWORD_ERROR', 
+errno: 1698, 
+sqlState: '28000', 
+sqlMessage: "Access denied for user 'root'@'localhost'", 
+sql: undefined
+```
+
 ## 계정 로그인
 
 ```
