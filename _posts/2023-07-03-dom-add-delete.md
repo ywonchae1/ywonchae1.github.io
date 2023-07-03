@@ -65,3 +65,19 @@ deleteButtons.forEach((element) => {
 그러면 delete 버튼이 클릭 되었을 때 element 자체를 삭제하면 된다.
 
 element.remove()를 하게 되면 HTML에서 해당 요소를 제거할 수 있다.
+
+## 참고
+
+<https://velog.io/@blackwidow/9-17>
+
+<https://nature-lee.tistory.com/47>
+
+<https://p-ido.tistory.com/11>
+
+<https://velog.io/@ine5012/Elements-%EC%B6%94%EA%B0%80%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0>
+
+<https://goddino.tistory.com/68>
+
+<https://middleun.tistory.com/2>
+
+<https://cpro95.tistory.com/149>
