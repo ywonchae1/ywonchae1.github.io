@@ -2,6 +2,8 @@
 layout: post
 title: "[윈도우 명화 찾기] 윈도우 바탕화면 사진 찾아내기"
 categories: [writing]
+image: '../../attachment/231009-1/01.png'
+page: Writing
 ---
 
 갑자기 노트북 화면 이미지에 사로잡힐 때..

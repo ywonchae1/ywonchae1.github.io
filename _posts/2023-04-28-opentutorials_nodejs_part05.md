@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part05 - Node.js의 동기와 비동기"
 categories: [serverSystem]
+page: DEV
 ---
 
 ## 배운 내용

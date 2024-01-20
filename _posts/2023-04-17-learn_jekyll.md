@@ -2,6 +2,7 @@
 layout: post
 title: "[Jekyll] 테마 폰트 line-height 조정 - 모바일 한글 겹침 해결"
 categories: [dev]
+page: DEV
 ---
 
 ## 한글이 겹친다!...

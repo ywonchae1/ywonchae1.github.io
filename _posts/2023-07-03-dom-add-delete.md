@@ -2,6 +2,7 @@
 layout: post
 title: "[JAVASCRIPT-DOM] JavaScript로 HTML 코드 변경하는 방법 / 시간 추가, 삭제 - querySelector createElement remove"
 categories: [dev]
+page: DEV
 ---
 
 ## 🍞 결과물

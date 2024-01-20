@@ -2,6 +2,7 @@
 layout: post
 title: "[Node.js] 실수 해결"
 categories: [dev]
+page: DEV
 ---
 
 ## url path마다 페이지 설정하기

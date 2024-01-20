@@ -2,6 +2,7 @@
 layout: post
 title: "[바탕화면 정리] 7월 ~ 10월 개발 기간"
 categories: [writing]
+page: Writing
 ---
 
 7월 ~ 10월 개발 기간 바탕화면에 급하게 저장된 파일 정리
@@ -181,6 +182,7 @@ If you like Certbot, please consider supporting our work by:
 기억해 놓자~!
 
 ```
+{% raw %}
 {% extends 'base.html' %}
 {% load static %}
 
@@ -256,6 +258,7 @@ If you like Certbot, please consider supporting our work by:
     upAndDown(currentPage);
 </script>
 {% endblock %}
+{% endraw %}
 ```
 
 ## 16

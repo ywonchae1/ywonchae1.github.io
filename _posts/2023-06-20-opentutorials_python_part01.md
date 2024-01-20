@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] 파이썬 apache2 웹 서버 구축"
 categories: [pirogramming]
+page: DEV
 ---
 
 ## 🧊 리눅스 파이썬 웹 서버 구축

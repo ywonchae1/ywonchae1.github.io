@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part08 - 🐘 post 방식으로 서버가 클라이언트로부터 받은 데이터를 처리하기! / 여기 정말 재밌다!"
 categories: [serverSystem]
+page: DEV
 ---
 
 ## 🐘

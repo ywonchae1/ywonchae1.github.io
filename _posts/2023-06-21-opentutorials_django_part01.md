@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Django 시작! 8000번 포트 접근 안 될 때"
 categories: [pirogramming]
+page: DEV
 ---
 
 ## 🚜 Django 애플리케이션 만들기

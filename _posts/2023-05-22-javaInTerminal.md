@@ -2,6 +2,7 @@
 layout: post
 title: "[Java] 터미널 환경에서 Java Application 제작"
 categories: [dev]
+page: DEV
 ---
 
 ## 😋 Swing 컴포넌트를 사용하는 방법

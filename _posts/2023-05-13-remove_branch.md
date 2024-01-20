@@ -2,6 +2,7 @@
 layout: post
 title: "[github] 로컬에서 브랜치 생성, 이동, 수정, 삭제하기"
 categories: [dev]
+page: DEV
 ---
 
 ## 생성

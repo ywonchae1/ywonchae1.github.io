@@ -2,6 +2,7 @@
 layout: post
 title: "[Django] Django 데이터베이스 서버 분리 및 MySQL과 MongoDB 함께 연결하기"
 categories: [pirogramming]
+page: DEV
 ---
 
 ## 💾 Socket.IO를 활용한 업무용 채팅 웹 서비스 개발 프로젝트

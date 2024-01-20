@@ -2,6 +2,7 @@
 layout: post
 title: "[github] 커밋 메시지 수정하기"
 categories: [dev]
+page: DEV
 ---
 
 push를 한 뒤에 커밋을 수정해야 하는 상황이다.

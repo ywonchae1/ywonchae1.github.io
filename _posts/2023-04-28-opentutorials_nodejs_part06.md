@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part06 - 패키지 매니저와 PM2"
 categories: [serverSystem]
+page: DEV
 ---
 
 ## 배운 내용

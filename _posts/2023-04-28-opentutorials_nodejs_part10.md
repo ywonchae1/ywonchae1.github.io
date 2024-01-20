@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part10 - 🐘 글을 삭제하기 / 웹페이지 완성"
 categories: [serverSystem]
+page: DEV
 ---
 
 ## 🐘

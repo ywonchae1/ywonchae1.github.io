@@ -2,6 +2,7 @@
 layout: post
 title: "[WSL] wsl 완전 삭제, 설치, Node.js 환경 설정과 원격 접속 설정"
 categories: [dev]
+page: DEV
 ---
 
 ## 🐱‍🏍 WSL 완전 삭제

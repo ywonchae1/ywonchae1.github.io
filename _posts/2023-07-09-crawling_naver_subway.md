@@ -2,6 +2,7 @@
 layout: post
 title: "[Python Crawling] 네이버 지하철 노선도 크롤링하기 / CSR 가로채기"
 categories: [dev]
+page: DEV
 ---
 
 ## 🚉 네이버의 지하철 노선도를 크롤링해보자~!

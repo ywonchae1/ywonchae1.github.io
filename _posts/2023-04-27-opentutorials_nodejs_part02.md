@@ -2,6 +2,7 @@
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part02 - 파일이 추가되면 페이지를 업데이트 하기 / fs모듈"
 categories: [serverSystem]
+page: DEV
 ---
 
 ## 배운 내용

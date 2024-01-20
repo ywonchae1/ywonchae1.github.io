@@ -2,6 +2,7 @@
 layout: post
 title: "[Node.js] 90줄 시간표 매칭 알고리즘"
 categories: [dev]
+page: DEV
 ---
 
 ## 🛒 시간표 매칭 알고리즘

@@ -2,6 +2,7 @@
 layout: post
 title: "[React] Node.js(Express) 프로젝트와 React 연결"
 categories: [dev]
+page: DEV
 ---
 
 ## 🧦 목적

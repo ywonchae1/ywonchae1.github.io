@@ -2,6 +2,7 @@
 layout: post
 title: "[RaspberryPi] ssh 계정이름@hostname 변경하기"
 categories: [dev]
+page: DEV
 ---
 
 ## 라즈베리파이 이름 변경

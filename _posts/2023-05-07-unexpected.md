@@ -2,6 +2,7 @@
 layout: post
 title: "[Node.js] heap; syntaxerror: unexpected token ; 해결"
 categories: [dev]
+page: DEV
 ---
 
 ## 문제

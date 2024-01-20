@@ -2,6 +2,7 @@
 layout: post
 title: "[Git] github contributors 전부 제거하고 나만 남기기"
 categories: [dev]
+page: DEV
 ---
 
 ## 🎊 Github에서 무임승차 contributers 모두 제거하기 ^^
