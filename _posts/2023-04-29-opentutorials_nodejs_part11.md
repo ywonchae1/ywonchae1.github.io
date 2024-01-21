@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part11 - 함수가 값이 될 수 있는 JavaScript, 객체"
-categories: [serverSystem]
-page: DEV
+categories: [serverSystem, dev]
 ---
 
 ## 배운 내용

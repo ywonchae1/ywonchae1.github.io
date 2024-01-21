@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Docker] Docker와 Container 실습 환경 구축"
-page: DEV
+categories: [dev]
 image: '../../attachment/2024/01/21/dockercute.png'
 ---
 

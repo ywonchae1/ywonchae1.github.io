@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Docker] Docker와 Container를 활용한 컨테이너 기술의 이해"
-page: DEV
+categories: [dev]
 image: '../../attachment/2024/01/21/dockercute.png'
 ---
 

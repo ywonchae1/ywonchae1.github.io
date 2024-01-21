@@ -2,7 +2,6 @@
 layout: post
 title: "[MySQL] 계정관리 / 비밀번호 확인 및 변경 방법"
 categories: [dev]
-page: DEV
 ---
 
 ## root 계정으로 mysql 실행

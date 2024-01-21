@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[Github] Github Organization 프로필에 보이기"
-categories: [pirogramming]
-page: DEV
+categories: [pirogramming, dev]
 ---
 
 ## 👁‍🗨 자랑스러운 우리 팀플을 공개하자 ~!

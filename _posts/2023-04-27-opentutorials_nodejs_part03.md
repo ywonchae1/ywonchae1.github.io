@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part03 - if문으로 서로 다른 결과를 내보내기"
-categories: [serverSystem]
-page: DEV
+categories: [serverSystem, dev]
 ---
 
 ## 배운 내용

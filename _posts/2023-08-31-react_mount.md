@@ -2,7 +2,6 @@
 layout: post
 title: "[React] 리액트의 생명주기 함수 componentDidMount(), componentDidUpdate(), componentWillUnmount()의 동작"
 categories: [dev]
-page: DEV
 ---
 
 ## 💙 리액트의 생명주기와 생명주기 함수

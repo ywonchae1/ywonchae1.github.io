@@ -2,7 +2,6 @@
 layout: post
 title: "[Node.js, express] 이번 주 구현 완료 / 후기 작성, 수정, 삭제"
 categories: [dev]
-page: DEV
 ---
 
 ## 오늘의 성과

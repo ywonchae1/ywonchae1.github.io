@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part01 - Javascript 기초와 console.log()로 결과 확인하기"
-categories: [serverSystem]
-page: DEV
+categories: [serverSystem, dev]
 ---
 
 ## 배운 내용

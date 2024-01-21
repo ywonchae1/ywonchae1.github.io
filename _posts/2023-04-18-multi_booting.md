@@ -2,7 +2,6 @@
 layout: post
 title: "[멀티부팅] 리눅스와 윈도우를 동시에 사용하기 / 컴퓨터 한 개에 운영체제 두 개"
 categories: [dev]
-page: DEV
 ---
 
 ## WSL은 너무 답답해

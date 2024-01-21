@@ -2,7 +2,6 @@
 layout: post
 title: "[MySQL] MySQL 계정 생성, 삭제, 비밀번호 변경, 비밀번호 분실"
 categories: [dev]
-page: DEV
 ---
 
 ## 으아아악

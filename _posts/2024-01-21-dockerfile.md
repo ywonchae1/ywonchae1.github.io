@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Docker] Dockerfile 작성하고 이미지 빌드하기"
-page: DEV
+categories: [dev]
 image: '../../attachment/2024/01/21/dockercute.png'
 ---
 

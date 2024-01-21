@@ -2,7 +2,6 @@
 layout: post
 title: "[github] 실수로 Contributors가 추가되었을 때 Contributors 삭제하기"
 categories: [dev]
-page: DEV
 ---
 
 ## Contributors에 다른 사용자 삭제하기

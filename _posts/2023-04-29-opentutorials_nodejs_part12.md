@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "[OpenTutorials] Node.js 공부 Part12 - 파일을 나누자! 모듈 / 보안 / API"
-categories: [serverSystem]
-page: DEV
+categories: [serverSystem, dev]
 ---
 
 ## 배운 내용

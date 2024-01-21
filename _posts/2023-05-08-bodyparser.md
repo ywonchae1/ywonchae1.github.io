@@ -2,7 +2,6 @@
 layout: post
 title: "[Node.js] request.body가 undefined, {}로 나올 때 해결"
 categories: [dev]
-page: DEV
 ---
 
 Node.js, express를 사용해 웹페이지를 제작하고 있던 중 문제를 만났다.

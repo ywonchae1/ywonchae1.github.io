@@ -2,7 +2,6 @@
 layout: post
 title: "[바탕화면 정리] 7월 ~ 10월 개발 기간"
 categories: [writing]
-page: Writing
 ---
 
 7월 ~ 10월 개발 기간 바탕화면에 급하게 저장된 파일 정리

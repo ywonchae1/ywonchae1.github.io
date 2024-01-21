@@ -2,7 +2,6 @@
 layout: post
 title: "[github] .gitmessage로 commit을 편하게 / Issue 템플릿 생성 / Issue에 따라 Branch만들기"
 categories: [dev]
-page: DEV
 ---
 
 ## 🏃 개발 협업을 처음 시작하는 나에게

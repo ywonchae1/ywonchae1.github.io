@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[RUBY] github 블로그 테마 변경 & Mac M3 jekyll 개발 환경 오류"
-page: DEV
+categories: [dev]
 image: '../../attachment/2024/01/20/messi.png'
 ---
 
