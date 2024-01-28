@@ -169,7 +169,7 @@ docker [container] run [OPTIONS] 이미지명:[태그] [실행명령]
 
 <img src='../attachment/2024/01/21/13docker_run_options.jpeg'>
 
---restart 옵션도 많이 사용한다. [no | on-failure | on-failure:횟수 | always]
+`--restart` 옵션도 많이 사용한다. `[no | on-failure | on-failure:횟수 | always]`
 
 ### 🔎 도커 컨테이너 생성
 
