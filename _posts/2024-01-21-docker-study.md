@@ -7,7 +7,9 @@ image: '../../attachment/2024/01/21/dockercute.png'
 
 ## 가상화 (Virtualization)
 하드웨어에 종속된 리소스를 추상화
+
 운영체제에서 가상화를 많이 사용함
+
 - Process
 - CPU Scheduling
 - Virtual Memory
@@ -73,6 +75,7 @@ image: '../../attachment/2024/01/21/dockercute.png'
 
 ## Docker 개념
 2013년 Go 언어로 개발
+
 Container 관련 기술 중 거의 표준
 
 ## Docker 아키텍쳐
@@ -83,7 +86,9 @@ Docker 데몬(서버)과 Docker 클라이언트로 이루어져 있음
 
 ### Docker Daemon
 서버 역할
+
 클라이언트에서 docker로 시작하는 커멘드(명령어)를 입력 받아, Docker 오브젝트인 이미지, 컨테이너, 볼륨, 네트워크 등을 관리
+
 네트워크를 통한 요청도 받을 수 있다. ☞ 이게 쿠버네티스와 연관이 있는 것 같다!
 
 ### Docker Client
@@ -91,25 +96,40 @@ Docker 데몬(서버)과 Docker 클라이언트로 이루어져 있음
 
 ### Docker Image
 컨테이너를 올리기 위한 실행 파일, 설정 파일의 묶음
+
 하나의 이미지는 여러 레이어의 조합으로 이루어진다.
+
 유니온 파일 시스템(UnionFS)에 의존
 <img src='../attachment/2024/01/21/04dockerimage.jpeg'>
 Read-Only Layer와 Writable Layer로 구성되어 있다.
+
 Dockerfile에 명시된 스크립트에 따라 빌드된 결과물이다.
+
 각 이미지는 `레포지토리:태그`로 구성되어 있다.
 
 ### Docker Container
 `docker run` 명령어를 통해 이미지는 컨테이너로 변환되어 하나의 **인스턴스**가 된다.
+
 IP 주소를 가지는 하나의 독립된 서버처럼 동작한다.
 <img src='../attachment/2024/01/21/05dockercontainer.jpeg'>
 서버 안에 서버가 있다고 생각하면 쉽다!
 
 ### Docker Registry
 이미지를 업로드해 보관하고 공유하는 장소
+
 github와 비슷하다.
+
 나의 Docker hub의 레지스트리는 나의 게정 이름으로 시작한다. `ywonchae1/proj...`
 
 ## IaC (Infrastructure as Code)
 배포 동작에 필요한 모든 내용을 코드로 작성하는 것 ☞ 도커를 사용하게 되면 자연스레 가능해진다!
+
+## Docker로 서비스를 배포했을 때 형태
+예시
+
+React, Node.js 서버는 각각 컨테이너
+
+Nginx는 Host PC에 설치한 상태 (Nginx 또한 컨테이너로 만들 수 있음)
+<img src='../attachment/2024/01/21/19containersystem.jpeg'>
 
 > 다음 시간에는 Docker 실습을 해보자~
