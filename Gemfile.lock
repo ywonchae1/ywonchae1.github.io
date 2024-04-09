@@ -83,10 +83,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.3.3)
+  jekyll
   jekyll-paginate
   jekyll-sitemap
-  just-the-docs (= 0.8.2)
+  just-the-docs
 
 BUNDLED WITH
    2.3.26
