@@ -1,29 +1,111 @@
-# Site Build Settings
+title: one-House
+description: Lionel Messi
+theme: just-the-docs
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
+url: https://ywonchae1.github.io
 
-# jekyll-paginate configuration
-paginate:            5
+# Set a path/url to a logo that will be displayed instead of the title
+favicon_logo: "favicon.ico"
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+aux_links:
+  Github: https://github.com/ywonchae1
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'BLOG'
-description:	       'Lionel Messi'
-author:              'Wonchae Yang'
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: UA-2709176-10
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+collections_dir: docs
+collections:
+  spring:
+    permalink: "/:collection/:path/"
+    output: true
+  java:
+    permalink: "/:collection/:path/"
+    output: true
+  nodejs:
+    permalink: "/:collection/:path/"
+    output: true
+  django:
+    permalink: "/:collection/:path/"
+    output: true
+  docker:
+    permalink: "/:collection/:path/"
+    output: true
+  database:
+    permalink: "/:collection/:path/"
+    output: true
+  deployment:
+    permalink: "/:collection/:path/"
+    output: true
+  git-github:
+    permalink: "/:collection/:path/"
+    output: true
+  dev:
+    permalink: "/:collection/:path/"
+    output: true
+  memo:
+    permalink: "/:collection/:path/"
+    output: true
+  private:
+    output: false
+
+just_the_docs:
+  collections:
+    spring:
+      name: spring
+      nav_fold: true
+    java:
+      name: java
+      nav_fold: true
+    nodejs:
+      name: "node.js"
+      nav_fold: true
+    django:
+      name: django
+      nav_fold: true
+    docker:
+      name: docker
+      nav_fold: true
+    database:
+      name: database
+      nav_fold: true
+    deployment:
+      name: deployment
+      nav_fold: true
+    git-github:
+      name: git-github
+      nav_fold: true
+    memo:
+      name: memo
+      nav_fold: true
+    dev:
+      name: dev
+      nav_fold: true
+    private:
+      nav_exclude: true
