@@ -110,3 +110,5 @@ just_the_docs:
       nav_fold: true
     private:
       nav_exclude: true
+
+plugins: [jemoji]

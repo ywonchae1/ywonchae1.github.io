@@ -9,3 +9,4 @@ gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem 'jemoji'
