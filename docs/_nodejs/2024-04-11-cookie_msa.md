@@ -5,6 +5,7 @@ last_modified_date: 2024-04-11
 ---
 
 # MSA에서 HTTP 모듈의 request와 cookie
+{: .no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }

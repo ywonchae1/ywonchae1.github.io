@@ -64,6 +64,9 @@ collections:
   deployment:
     permalink: "/:collection/:path/"
     output: true
+  algorithm:
+    permalink: "/:collection/:path/"
+    output: true
   git-github:
     permalink: "/:collection/:path/"
     output: true
@@ -95,6 +98,9 @@ just_the_docs:
       nav_fold: true
     database:
       name: database
+      nav_fold: true
+    algorithm:
+      name: algorithm
       nav_fold: true
     deployment:
       name: deployment
