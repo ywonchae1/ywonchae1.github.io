@@ -6,6 +6,12 @@ last_modified_date: 2024-04-11
 
 # MSA에서 HTTP 모듈의 request와 cookie
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## 프로젝트 MSA(Microservice Architecture) 구조
 
 원래 전체 코드였던 main으로부터 공인중개사 회원의 마이페이지와 관련된 기능을 담당하는 agent_mypage 마이크로서비스가 분리되어
