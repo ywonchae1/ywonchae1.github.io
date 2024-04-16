@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Jenkins에서 env 파일 사용하기
-last_modified_date: 2024-04-17
+parent: 배포
 nav_order: 1
+last_modified_date: 2024-04-17
 ---
 
 # Jenkins에서 env 파일 사용하기
