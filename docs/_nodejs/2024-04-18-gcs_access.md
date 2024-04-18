@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Node.js GCS 이미지 접근 권한 오류 해결
 last_modified_date: 2024-04-18
 ---
