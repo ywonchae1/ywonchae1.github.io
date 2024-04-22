@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Do it! 알고리즘 코딩테스트 - 오일러피, 유클리드 호제법
-parent: 알고리즘 코딩테스트 - JAVA
+title: 오일러피, 유클리드 호제법
+parent: Do it! 알고리즘 코딩테스트
 last_modified_date: 2024-04-14
 ---
 
