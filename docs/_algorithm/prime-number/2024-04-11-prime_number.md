@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do it! 알고리즘 코딩테스트 - 소수
-parent: 알고리즘 코딩테스트 - JAVA
+parent: 소수 알고리즘
 last_modified_date: 2024-04-11
 ---
 
