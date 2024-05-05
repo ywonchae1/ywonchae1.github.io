@@ -57,7 +57,7 @@ nav_order: 0
 2024
 {: .label .label-green }
 
-<div style="display: flex;">
+<div>
   <span style="margin-right: 1rem; display: flex;">
     <img src="/assets/icons/cplusplus.svg" style="margin-right: 0.5rem;" />
     <a href="https://en.cppreference.com/w/" target="_blank">
@@ -90,9 +90,7 @@ nav_order: 0
       kubernetes
     </a>
   </span>
-</div>
 
-<div style="display: flex;">
   <span style="margin-right: 1rem; display: flex;">
     <img src="/assets/icons/mysql.svg" style="margin-right: 0.5rem;" />
     <a href="https://www.mysql.com/" target="_blank">
@@ -113,9 +111,7 @@ nav_order: 0
       MongoDB
     </a>
   </span>
-</div>
 
-<div style="display: flex;">
   <span style="margin-right: 1rem; display: flex;">
     <img src="/assets/icons/nodedotjs.svg" style="margin-right: 0.5rem;" />
     <a href="https://nodejs.org/en" target="_blank">
