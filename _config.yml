@@ -117,4 +117,6 @@ just_the_docs:
     private:
       nav_exclude: true
 
-plugins: [jemoji]
+plugins:
+  - jekyll-feed
+  - jemoji
