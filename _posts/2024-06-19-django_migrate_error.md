@@ -69,3 +69,7 @@ models.py 파일 안에서만 사용하는 함수인 `upload_to_func`를 제거�
 
 ![](/attachment/2024/06/19/03editmigrations.png)
 ![](/attachment/2024/06/19/04editmigrations.png)
+
+## 참고
+
+[좋은 글](https://www.jgahn.com/post/7){:target="_blank"}을 참고하였습니다.
