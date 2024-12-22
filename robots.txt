@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ywonchae1.github.io/sitemap.xml
